@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spider app dev task 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="slide_show">Slide Show</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="timer">00:000</string>
+
+
+    <string-array name="tracks">
+            <item>Escape by Enrique</item>
+            <item>PokerFace by Lady Gaga</item>
+            <item>Hips dont lie by Shakira</item>
+
+
+        </string-array>
+</resources>
